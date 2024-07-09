@@ -1,5 +1,4 @@
 import {wordsData} from '../../db/dataBase'
-import React, { useCallback, useEffect, useState } from "react";
 import { useSpeechSynthesis } from 'react-speech-kit';
 
 
